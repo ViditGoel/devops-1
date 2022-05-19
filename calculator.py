@@ -1,5 +1,5 @@
-#CALCULATOR:
-#FEATURE
+# CALCULATOR:
+# FEATURE
 import sys
 
 class claculator_tool:
